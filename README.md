@@ -7,14 +7,15 @@ Welcome to **StudyNest**, a comprehensive platform designed for seamless collabo
 ## Table of Contents
 
 1. [Features](#features)
-2. [Technologies Used](#technologies-used)
-3. [Frontend Overview](#frontend-overview)
-4. [Backend Overview](#backend-overview)
-5. [Setup Instructions](#setup-instructions)
-6. [Environment Variables](#environment-variables)
-7. [Endpoints](#endpoints)
-8. [Running the Application](#running-the-application)
-9. [Notes](#notes)
+2. [Workflow Diagram](#workflow-diagram)
+3. [Technologies Used](#technologies-used)
+4. [Frontend Overview](#frontend-overview)
+5. [Backend Overview](#backend-overview)
+6. [Setup Instructions](#setup-instructions)
+7. [Environment Variables](#environment-variables)
+8. [Endpoints](#endpoints)
+9. [Running the Application](#running-the-application)
+10. [Notes](#notes)
 
 ---
 
@@ -25,6 +26,12 @@ Welcome to **StudyNest**, a comprehensive platform designed for seamless collabo
 - Notes upload and retrieval (text and PDF).
 - Quiz generation based on uploaded notes.
 - Real-time chat functionality for classes.
+
+---
+
+## Workflow Diagram
+
+![Untitled-2025-04-06-2210](https://github.com/user-attachments/assets/52b8da1b-76d4-40cb-a538-fb01ea5bfbcd)
 
 ---
 
@@ -72,7 +79,8 @@ The backend is powered by **Flask**, offering robust APIs for managing classes, 
 
 ### DB Diagram
 
-![DB Diagram](diagram-export-3-31-2025-8_52_24-PM)
+![image](https://github.com/user-attachments/assets/70a2faad-b240-49d3-abb3-20ded82b0f52)
+
 
 ---
 
